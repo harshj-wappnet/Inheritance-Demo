@@ -6,6 +6,8 @@
 
 ## OOPs Concepts Covered By Project
   - Inheritance
+  - Class Object
+  - Constructors
   
 ## Types Of Inheritance Implemented
   - Single level Inheritance
